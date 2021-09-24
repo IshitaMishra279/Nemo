@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Ram Bhakt.
+- 👋 Hi, I’m Ishita Mishra
 - 👀 I’m interested in any challenging tasks.
 - 🌱 I’m currently learning to code in java.
 - 💞️ I’m looking to collaborate on any new ventures which I can acheive. 
